@@ -1,4 +1,4 @@
-Hi there 👋, Marcus Hudson
+Marcus Hudson
 Software Engineer
 ![Brown Wood Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/126327780/221360992-e4f0e30e-0743-4e58-9a7f-eddf61458ee9.png)
 
